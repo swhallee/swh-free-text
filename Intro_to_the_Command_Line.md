@@ -1,8 +1,6 @@
 Command Line
 ============
 
-Content-Type: text/x-zim-wiki Wiki-Format: zim 0.4 Creation-Date: 2014-01-10T18:16:05-05:00
-
 Introduction to the POSIX Command Line
 ======================================
 
